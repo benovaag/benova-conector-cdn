@@ -7,7 +7,7 @@
   
   // Configurações
   const config = {
-    apiUrl: 'https://api-dev.benova.com.br/cart/update-wake-order',
+    apiUrl: 'https://api.benova.com.br/cart/update-wake-order',
     checkInterval: 500,
     maxAttempts: 20,
     debug: true       // Habilita logs para depuração
